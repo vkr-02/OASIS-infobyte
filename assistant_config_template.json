@@ -1,0 +1,10 @@
+{
+    "user_name": "User",
+    "email_address": "your.email@gmail.com",
+    "email_password": "your_app_password_here",
+    "weather_api_key": "your_openweathermap_api_key_here",
+    "default_city": "New York",
+    "voice_gender": "male",
+    "speech_rate": 180,
+    "volume": 0.9
+}

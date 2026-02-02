@@ -1,0 +1,29 @@
+# Voice Assistant Dependencies
+# Install using: pip install -r requirements.txt
+
+# Core dependencies for basic version
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.13
+
+# Additional dependencies for advanced features
+# Uncomment the ones you need:
+
+# For email functionality
+# secure-smtplib==0.1.1
+
+# For weather updates
+# requests==2.31.0
+
+# For natural language processing (Advanced version)
+# nltk==3.8.1
+# spacy==3.7.2
+
+# For device control (Advanced version)
+# pywhatkit==5.4
+
+# For calendar/reminders
+# python-dateutil==2.8.2
+
+# For Wikipedia searches
+# wikipedia==1.4.0
