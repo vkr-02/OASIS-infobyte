@@ -1,7 +1,5 @@
 # Oasis Infobyte Python Programming Internship 🐍
 
-**Intern Name:** Vaibhavi K R 
-**Duration:** 4 Weeks  
 **Program:** Python Programming Internship  
 
 ## 📚 About This Internship
